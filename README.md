@@ -1,6 +1,6 @@
-# Lins PY Bot
+# HezronBotz
 
-Lins PY Bot adalah bot yang dapat berjalan di platform Telegram dan WhatsApp (fitur WhatsApp masih dalam pengembangan). Bot ini dibuat menggunakan Python dengan berbagai modul seperti `rich`, `requests`, dan `python-telegram-bot`.
+HezronBotz adalah bot yang dapat berjalan di platform Telegram dan WhatsApp (fitur WhatsApp masih dalam pengembangan). Bot ini dibuat menggunakan Python dengan berbagai modul seperti `rich`, `requests`, dan `python-telegram-bot`.
 
 ## Fitur Utama
 - **Bot Telegram**
@@ -43,18 +43,11 @@ Sebelum menjalankan bot, pastikan Anda memiliki:
    python index.py
 
 ## Pengembang
-  **Dibuat oleh**: Lins Official
+  **Dibuat oleh**: HezronBotz
   
   **Pada Tanggal**: 7 Februari 2025
 
 ## Sosial Media
 
-Tetap terhubung dengan saya melalui berbagai platform berikut:
-
-- 🎥 **YouTube:** [Lins Official](https://youtube.com/@LinsOfficiall)
-- 📷 **Instagram:** [rijalsavior](https://instagram.com/rijalsavior)
-- 💬 **WhatsApp:** [Chat WhatsApp](https://wa.me/6285190090045)
-- 📢 **Saluran WhatsApp:** [Lins Official Channel](https://whatsapp.com/channel/0029VaeQHirJ93waiykxjF2L)
-- 🌍 **Website:** [Lins Official Website](https://linsofc.github.io)
-
-Jangan lupa untuk subscribe, follow, dan bergabung untuk mendapatkan update terbaru!
+Tetap terhubung dengan saya melalui berbagai platform berikut 
+- 💬 **WhatsApp:** [Chat WhatsApp](https://wa.me/6282163511699)
